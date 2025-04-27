@@ -108,7 +108,7 @@ from PIL import Image
 st.set_page_config(page_title="Consultor de IA da L3", page_icon="🤖", layout="wide")
 
 # Caminho para o logo
-logo_path = "/Users/tarikhadi/Desktop/logo.png"
+logo_path = "logo.png"
 
 # Layout do cabeçalho com logo e título
 col1, col2 = st.columns([1, 3])
